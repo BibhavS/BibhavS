@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Bibhav Shrestha</h1>
+<h1 align="center">Hello, I am Bibhav Shrestha</h1>
 <h3 align="center">A React developer from Nepal</h3>
 
 - 💬 Ask me about **Python, Java, React, Javascript, SQL**
