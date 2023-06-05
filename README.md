@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I am Bibhav Shrestha</h1>
 <h3 align="center">A React developer from Nepal</h3>
-
+<img align="right" alt="img" width=400 src="https://i.gifer.com/Ry6p.gif">
 - 💬 Ask me about **Python, Java, React, Javascript, SQL**
 
 - 📫 How to reach me **https://www.linkedin.com/in/bibhav-shrestha-71876824b/**
