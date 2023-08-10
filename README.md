@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Bibhav Shrestha</h1>
-<h3 align="center">A React developer</h3>
+<h3 align="center">Student</h3>
 <img align="right" alt="img" width=400 src="https://i.gifer.com/Ry6p.gif">
 - 💬 Ask me about **Python, Java, React, Javascript, SQL**
 
