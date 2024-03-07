@@ -3,8 +3,6 @@
 <img align="right" alt="img" width=400 src="https://i.gifer.com/Ry6p.gif">
 - 💬 Ask me about **Python, Java, React, Javascript, SQL**
 
-- 📫 How to reach me **https://www.linkedin.com/in/bibhav-shrestha-71876824b/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bibhav-shrestha-71876824b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibhav shrestha" height="30" width="40" /></a>
